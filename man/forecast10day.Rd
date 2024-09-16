@@ -34,3 +34,4 @@ forecast10day(set_location(zip_code = "90210"))
 forecast10day(set_location(territory = "IR", city = "Tehran"))
 }
 }
+

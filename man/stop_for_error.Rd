@@ -12,3 +12,4 @@ stop_for_error(httr_parsed_req)
 \description{
 Detect and stop for any wunderground request errors
 }
+

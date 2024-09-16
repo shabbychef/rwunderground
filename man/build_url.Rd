@@ -18,3 +18,4 @@ build_url(key = get_api_key(), request_type, date, location)
 \description{
 Build wunderground request URL
 }
+

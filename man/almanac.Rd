@@ -37,3 +37,4 @@ almanac(set_location(zip_code = "90210"))
 almanac(set_location(territory = "IR", city = "Tehran"))
 }
 }
+

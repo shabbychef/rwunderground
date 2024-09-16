@@ -30,3 +30,4 @@ rawtide(set_location(territory = "Washington", city = "Seattle"))
 rawtide(set_location(territory = "Louisiana", city = "New Orleans"))
 }
 }
+

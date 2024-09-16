@@ -35,3 +35,4 @@ hourly10day(set_location(zip_code = "90210"))
 hourly10day(set_location(territory = "IR", city = "Tehran"))
 }
 }
+

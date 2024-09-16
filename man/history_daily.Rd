@@ -34,3 +34,4 @@ history_daily(set_location(zip_code = "90210"), "20130131")
 history_daily(set_location(territory = "IR", city = "Tehran"), "20140131")
 }
 }
+

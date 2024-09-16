@@ -30,3 +30,4 @@ tide(set_location(territory = "Washington", city = "Seattle"))
 tide(set_location(territory = "Louisiana", city = "New Orleans"))
 }
 }
+

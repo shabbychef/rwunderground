@@ -38,3 +38,4 @@ yesterday(set_location(territory = "Iraq", city = "Baghdad"))
 yesterday(set_location(territory = "IR", city = "Tehran"), summary = TRUE)
 }
 }
+

@@ -12,3 +12,4 @@ TRUE if API key set, otherwise FALSE
 \description{
 Detects if wunderground API key is set
 }
+

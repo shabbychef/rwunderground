@@ -32,3 +32,4 @@ webcam(set_location(territory = "Iowa", city = "Iowa City"))
 webcam(set_location(territory = "Iraq", city = "Baghdad"))
 }
 }
+

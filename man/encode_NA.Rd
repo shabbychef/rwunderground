@@ -15,3 +15,4 @@ data.frame with correctly encoded NAs
 \description{
 Processes data.frames and replaces wunderground's -9999/-999 to NAs
 }
+

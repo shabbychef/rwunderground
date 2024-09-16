@@ -24,3 +24,4 @@ httr request object
 \description{
 wunderground api requests
 }
+

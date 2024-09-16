@@ -15,3 +15,4 @@ TRUE if valid state or country otherwise FALSE
 \description{
 Checks if country/state is a valid one
 }
+

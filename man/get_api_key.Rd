@@ -17,3 +17,4 @@ Returns the wunderground API key
 get_api_key()
 }
 }
+

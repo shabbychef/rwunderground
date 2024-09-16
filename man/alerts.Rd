@@ -32,3 +32,4 @@ alerts(set_location(zip_code = "90210"))
 alerts(set_location(territory = "IR", city = "Tehran"))
 }
 }
+

@@ -30,3 +30,4 @@ astronomy(set_location(zip_code = "90210"))
 astronomy(set_location(territory = "IR", city = "Tehran"))
 }
 }
+
